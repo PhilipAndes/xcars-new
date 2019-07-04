@@ -1,0 +1,29 @@
+{
+  "xCars": [
+    {
+      "id": 1,
+      "model": "Cabrio",
+      "img": "img/xcar-cabrio-color/cabrio-black.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad."
+    },
+    {
+      "id": 2,
+      "model": "Coupe",
+      "img": "img/modelsClean/coupe1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad."
+    },
+    {
+      "id": 3,
+      "model": "Hatchback",
+      "img": "img/modelsClean/hatchback1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad."
+      
+    },
+    {
+    "id": 4,
+    "model": "SUV",
+    "img": "img/modelsClean/suv1.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad."
+    }
+  ]
+}

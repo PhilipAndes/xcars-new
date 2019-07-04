@@ -1,0 +1,196 @@
+{
+  "fuel": [
+    {"id": 1, "name": "Benzine"},
+    {"id": 2, "name": "Diesel"},
+    {"id": 3, "name": "Electric"}
+  ],
+
+  "year": [
+    {"id": 1, "year": 2017},
+    {"id": 2, "year": 2018},
+    {"id": 3, "year": 2019}
+  ],
+
+  "xCars": [
+    {
+      "id": 1,
+      "model": "Cabrio",
+      "headerImg": "img/showcase-model/background-cabrio1.jpg",
+      "defaultImg": "img/xcar-cabrio-color/cabrio-black1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad.",
+      "models": [
+        { 
+          "id": 1,
+          "name": "XCabrio-1",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-cabrio-color/cabrio-black1.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-cabrio-color/cabrio-red1.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-cabrio-color/cabrio-blue1.png"}
+          ],
+          "properties": {
+            "price": 5000
+          }
+        },
+        { 
+          "id": 2,
+          "name": "XCabrio-2",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-cabrio-color/cabrio-black2.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-cabrio-color/cabrio-red2.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-cabrio-color/cabrio-blue2.png"}
+          ],
+          "properties": {
+            "price": 7500
+          }
+        },
+        {
+          "id": 3,
+          "name": "XCabrio-3",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-cabrio-color/cabrio-black3.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-cabrio-color/cabrio-red3.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-cabrio-color/cabrio-blue3.png"}
+          ],
+          "properties": {
+            "price": 10000
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "model": "Coupe",
+      "headerImg": "img/showcase-model/background-coupe2.jpg",
+      "defaultImg": "img/xcar-coupe-color/coupe-black1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad.",
+      "models": [
+        {
+          "id": 1,  
+          "name": "XCoupe-1",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-coupe-color/coupe-black1.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-coupe-color/coupe-red1.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-coupe-color/coupe-blue1.png"}
+          ],
+          "properties": {
+            "price": 5000
+          }
+        },
+        {
+          "id": 2, 
+          "name": "XCoupe-2",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-coupe-color/coupe-black2.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-coupe-color/coupe-red2.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-coupe-color/coupe-blue2.png"}
+          ],
+          "properties": {
+            "price": 7500
+          }
+        },
+        {
+          "id": 3, 
+          "name": "XCoupe-3",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-coupe-color/coupe-black3.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-coupe-color/coupe-red3.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-coupe-color/coupe-blue3.png"}
+          ],
+          "properties": {
+            "price": 10000
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "model": "Hatchback",
+      "headerImg": "img/showcase-model/background-hatchback2.jpeg",
+      "defaultImg": "img/xcar-hatchback-color/hatchback-black1.png",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad.",
+      "models": [
+        {
+          "id": 1,  
+          "name": "XHatchback-1",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-hatchback-color/hatchback-black1.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-hatchback-color/hatchback-red1.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-hatchback-color/hatchback-blue1.png"}
+          ],
+          "properties": {
+            "price": 5000
+          }
+        },
+        {
+          "id": 2, 
+          "name": "XHatchback-2",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-hatchback-color/hatchback-black2.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-hatchback-color/hatchback-red2.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-hatchback-color/hatchback-blue2.png"}
+          ],
+          "properties": {
+            "price": 7500
+          }
+        },
+        {
+          "id": 3, 
+          "name": "XHatchback-3",
+          "color": [
+            {"id": 1, "name": "Black", "src": "img/xcar-hatchback-color/hatchback-black3.png"},
+            {"id": 2, "name": "Red", "src": "img/xcar-hatchback-color/hatchback-red3.png"},
+            {"id": 3, "name": "Blue", "src": "img/xcar-hatchback-color/hatchback-blue3.png"}
+          ],
+          "properties": {
+            "price": 10000
+          }
+        }
+      ]
+    },
+    {
+    "id": 4,
+    "model": "SUV",
+    "headerImg": "img/showcase-model/background-suv1.jpg",
+    "defaultImg": "img/xcar-suv-color/suv-black1.png",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo accusamus ducimus quidem delectus voluptatum ad.",
+    "models": [
+      {
+        "id": 1,  
+        "name": "XSUV-1",
+        "color": [
+          {"id": 1, "name": "Black", "src": "img/xcar-suv-color/suv-black1.png"},
+          {"id": 2, "name": "Red", "src": "img/xcar-suv-color/suv-red1.png"},
+          {"id": 3, "name": "Blue", "src": "img/xcar-suv-color/suv-blue1.png"}
+        ],
+        "properties": {
+          "price": 5000
+        }
+      },
+      {
+        "id": 2, 
+        "name": "XSUV-2",
+        "color": [
+          {"id": 1, "name": "Black", "src": "img/xcar-suv-color/suv-black2.png"},
+          {"id": 2, "name": "Red", "src": "img/xcar-suv-color/suv-red2.png"},
+          {"id": 3, "name": "Blue", "src": "img/xcar-suv-color/suv-blue2.png"}
+        ],
+        "properties": {
+          "price": 7500
+        }
+      },
+      {
+        "id": 3, 
+        "name": "XSUV-3",
+        "color": [
+          {"id": 1, "name": "Black", "src": "img/xcar-suv-color/suv-black3.png"},
+          {"id": 2, "name": "Red", "src": "img/xcar-suv-color/suv-red3.png"},
+          {"id": 3, "name": "Blue", "src": "img/xcar-suv-color/suv-blue3.png"}
+        ],
+        "properties": {
+          "price": 10000
+        }
+      }
+    ]
+    }
+  ]
+}
